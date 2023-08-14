@@ -1,6 +1,6 @@
 # Employee_dashboard 📈📊
-Dashboard of Employee with detail relation with other factors related to data
-skills used - Google locker studio, google sheets
+Dashboard of Employee with detail relation with other factors related to data.
+skills used - Google locker studio, google sheets.
 Imp Kpi's - Exit Rate of Employee from company 
             Total Employees present in company
             Working Employee in company
